@@ -57,6 +57,11 @@ int main()
         }
         
        }
+       else
+       {
+          cout << "The file has enough lines." << endl;
+          cout << "Nothing needs to be added" << endl;
+       }
        mflw.close();
      } 
      else cout << "Unable to open file";  
