@@ -1,4 +1,3 @@
-# CPP
 The program will check the number of lines in a user specified text file against the user specified amount.
 The program will then automatically update or have the user manually update the number of lines in the file.
 
